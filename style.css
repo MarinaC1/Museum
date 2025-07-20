@@ -55,7 +55,7 @@ height: 31px;
 }
 .nav-items a{
   font-family: Roboto;
-  font-size: 22px; 
+  font-size: 22px;
   color: #FFFFFF;
 }
 .section-title{
@@ -76,7 +76,7 @@ background-color: black;
 }
 .welcome-background{
     position: absolute;
-    z-index: 10; *
+    z-index: 10;
     background: #0C0C0E;
     display: flex;
     flex-direction: column;
